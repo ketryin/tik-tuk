@@ -1,0 +1,6 @@
+.loader{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    background-color: rgba(250, 111, 111, 0.3);
+}

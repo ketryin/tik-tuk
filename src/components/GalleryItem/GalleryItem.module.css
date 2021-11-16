@@ -1,0 +1,31 @@
+.GalleryItem {
+  padding: 10px;
+  border: 2px solid #eeeeee;
+  border-radius: 2%;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
+    1px 4px 6px rgba(0, 0, 0, 0.16);
+  }
+  .avatar {
+    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+  .nameLink {
+    display:flex;
+    align-items: center;
+  }
+  .video {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .hashtags{
+    list-style: none;
+    margin-left: 10px;
+    color: blue;
+  }
+  .hashtagList {
+    display: flex;
+    flex-wrap: wrap;
+  }

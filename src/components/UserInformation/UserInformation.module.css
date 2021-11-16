@@ -1,0 +1,11 @@
+.avater {
+    margin-left: 10px;
+    margin-right: 10px;
+    display: block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.userInfoBlock {
+    display: flex;
+}
