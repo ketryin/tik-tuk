@@ -19,4 +19,5 @@ const Gallery = ({ videos }) => (
     ))}
   </ul>
 );
+
 export default Gallery;

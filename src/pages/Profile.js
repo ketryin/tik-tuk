@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useLocation, useParams } from "react-router";
 import { Link } from 'react-router-dom';
 import { getUserInfo, getUserFeed } from '../api/tikTokApi'
-import { LoadingStatus as Status } from "./LoadingStatus";
+import { LoadingStatus as Status } from "../common/LoadingStatus";
 import LoaderSpiner from "../components/Loader";
 import UserInformatiom from '../components/UserInformation';
 import UserPosts from '../components/UserPosts';

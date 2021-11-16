@@ -7,7 +7,7 @@ const UserPosts = ({ userFeed }) => (
         <li className={styles.GalleryItem}>
             <p>Plays count {playCount}</p>
             <div className={styles.video}>
-            <iframe src={playAddr} />
+            <iframe src={playAddr} title={playAddr} />
             </div>
         </li> )}
   </ul>

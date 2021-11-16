@@ -3,7 +3,7 @@ import styles from "./UserInformation.module.css";
 
 const UserInformation = ({ userInfo }) => (
     <div className={styles.userInfoBlock}>
-        <img src={userInfo.avatar} className={styles.avater}/>
+        <img src={userInfo.avatar} className={styles.avater} alt="Avatar"/>
         <div>
             <p>{userInfo.nickName}</p>
             <p>Followers {userInfo.followerCount}</p>

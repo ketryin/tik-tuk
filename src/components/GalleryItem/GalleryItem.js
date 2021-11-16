@@ -19,6 +19,7 @@ function GalleryItem({ videoUrl, text, authorName, authorNickName, avatar, hasht
         <iframe 
           src={videoUrl}
           alt=""
+          title={text}
         />
       </div>
 
