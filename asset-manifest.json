@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tik-tuk/static/css/main.6a6c4364.chunk.css",
+    "main.css": "/tik-tuk/static/css/main.c82b604d.chunk.css",
     "main.js": "/tik-tuk/static/js/main.17a94790.chunk.js",
     "main.js.map": "/tik-tuk/static/js/main.17a94790.chunk.js.map",
     "runtime-main.js": "/tik-tuk/static/js/runtime-main.356eb5cd.js",
@@ -10,14 +10,14 @@
     "static/js/2.7f4988bb.chunk.js.map": "/tik-tuk/static/js/2.7f4988bb.chunk.js.map",
     "index.html": "/tik-tuk/index.html",
     "static/css/2.fe79023c.chunk.css.map": "/tik-tuk/static/css/2.fe79023c.chunk.css.map",
-    "static/css/main.6a6c4364.chunk.css.map": "/tik-tuk/static/css/main.6a6c4364.chunk.css.map",
+    "static/css/main.c82b604d.chunk.css.map": "/tik-tuk/static/css/main.c82b604d.chunk.css.map",
     "static/js/2.7f4988bb.chunk.js.LICENSE.txt": "/tik-tuk/static/js/2.7f4988bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.356eb5cd.js",
     "static/css/2.fe79023c.chunk.css",
     "static/js/2.7f4988bb.chunk.js",
-    "static/css/main.6a6c4364.chunk.css",
+    "static/css/main.c82b604d.chunk.css",
     "static/js/main.17a94790.chunk.js"
   ]
 }
